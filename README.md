@@ -3,13 +3,22 @@
 
 ---
 
-- 📁 Currently, I am working as **Freelance Technical Project Manager, Technogigz Solutions**
+<p align="center">
+  📁 Currently, I am working as Freelance Technical Project Manager, Technogigz Solutions
+</p>
 
-- ✏️ Curious? Feel free to ask about **Python, Data Science/Analytics, Machine Learning**
+<p align="center">
+  ✏️ Curious? Feel free to ask about Python, Data Science/Analytics, Machine Learning
+</p>
 
-- 📩 Reach out to me through: **tahasaifee56@gmail.com**
+<p align="center">
+  📩 Reach out to me through: <a href="mailto:tahasaifee56@gmail.com">tahasaifee56@gmail.com</a>
+</p>
 
-- ⚡ Fun fact **🚀 From startup chaos to data nirvana - navigating the tech world one spreadsheet at a time!**
+<p align="center">
+  ⚡ Fun fact 🚀 From startup chaos to data nirvana - navigating the tech world one spreadsheet at a time!
+</p>
+
 
 ---
 

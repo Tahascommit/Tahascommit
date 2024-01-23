@@ -2,8 +2,9 @@
   <img src="https://github.com/Tahascommit/Tahascommit/blob/9a61f56932a906d5666b5c1b8002d7be2d42df0e/data-science.gif" alt="Data Science Animation" width="500" height="400"/>
 </p>
 
-<h1 align="center"><img src="https://github.com/Tahascommit/Tahascommit/blob/47ebe2b33b5f34658b3f58abaaaf5dee58f4fcba/waving_hand.gif" alt="Waving Hand" width="30" height="30"/> Hi, I'm Taha Saifee</h1>
+<h1 align="center">Hi, <img src="https://github.com/Tahascommit/Tahascommit/blob/47ebe2b33b5f34658b3f58abaaaf5dee58f4fcba/waving_hand.gif" alt="Waving Hand" width="30" height="30"/> I'm Taha Saifee</h1>
 <h3 align="center">Data Science | Data Analytics | Machine Learning</h3>
+
 
 ---
 

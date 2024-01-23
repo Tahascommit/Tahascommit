@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Tahascommit/Tahascommit/blob/9a61f56932a906d5666b5c1b8002d7be2d42df0e/data-science.gif" alt="Data Science Animation" width="500" height="300"/>
+  <img src="https://github.com/Tahascommit/Tahascommit/blob/9a61f56932a906d5666b5c1b8002d7be2d42df0e/data-science.gif" alt="Data Science Animation" width="500" height="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Taha Saifee</h1>

@@ -5,7 +5,6 @@
 <h1 align="center">Hi  <img src="https://github.com/Tahascommit/Tahascommit/blob/47ebe2b33b5f34658b3f58abaaaf5dee58f4fcba/waving_hand.gif" alt="Waving Hand" width="30" height="30"/> ,I'm Taha Saifee</h1>
 <h3 align="center">Data Science | Data Analytics | Machine Learning</h3>
 
-
 ---
 
 <p align="center">
@@ -45,11 +44,8 @@
 
 ---
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahascommit&show_icons=true&locale=en&layout=compact" alt="tahascommit" /></p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahascommit" alt="tahascommit" />
 </p>
 
 ---
-

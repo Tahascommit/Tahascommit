@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  ⚡ Fun fact 🚀 From startup chaos to data nirvana - navigating the tech world one spreadsheet at a time!
+  ⚡ Fun fact: From startup chaos to data nirvana - navigating the tech world one spreadsheet at a time!
 </p>
 
 

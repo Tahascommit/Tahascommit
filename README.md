@@ -45,13 +45,9 @@
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahascommit&show_icons=true&locale=en&layout=compact" alt="tahascommit" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahascommit&show_icons=true&locale=en&layout=compact" alt="tahascommit" /></p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tahascommit&show_icons=true&locale=en" alt="tahascommit" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahascommit&show_icons=true&locale=en" alt="tahascommit" /></p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahascommit
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahascommit&" alt="tahascommit" /></p>
+

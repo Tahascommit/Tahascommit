@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  📁 Currently, I am working as Freelance Technical Project Manager, Technogigz Solutions
+  📁 Currently, I am working as Freelance Technical Project Manager @Technogigz Solutions and Data Science Trainee @Almabetter
 </p>
 
 <p align="center">
